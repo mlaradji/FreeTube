@@ -96,7 +96,7 @@
         "electron-squirrel-startup": "^1.0.0",
         "github-version-checker": "^2.0.1",
         "jquery": "^3.3.1",
-        "jsdom": "^11.11.0",
+        "jsdom": "^16.5.0",
         "mustache": "^2.3.0",
         "nedb": "^1.8.0",
         "opml-to-json": "0.0.3",
